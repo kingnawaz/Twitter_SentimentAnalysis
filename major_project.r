@@ -1,4 +1,4 @@
-tweets_raw <- read.csv("F:/ML/tweets.csv", stringsAsFactors = FALSE)
+tweets_raw <- read.csv("tweets.csv", stringsAsFactors = FALSE)
 str(tweets_raw)
 head(tweets_raw)
 library(descr)
